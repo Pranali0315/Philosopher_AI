@@ -46,7 +46,7 @@ This project demonstrates a **philosophy-focused conversational chatbot** traine
 
 ## 👩‍💻 Team
 - **Pranali** 
-- **Rushii** 
+- **Rushikesh** 
 
 ---
 
